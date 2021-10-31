@@ -123,6 +123,7 @@ header nav ul li a {
 
 .aboutme-content{
     display: flex;
+    align-items: center;
 }
 
 .photo{
@@ -277,6 +278,10 @@ header nav ul li a {
     }
     .work-ind {
         width: 100%;
+    }
+    .aboutme-content{
+        flex-wrap: wrap;
+        justify-content: center;
     }
 }
 /* Small screens */
