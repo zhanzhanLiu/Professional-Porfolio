@@ -14,7 +14,7 @@ https://zhanzhanliu.github.io/Professional-Portfolio/
 https://github.com/zhanzhanLiu/Professional-Portfolio
 
 ## Screenshots of the webpage
-![The overall looking of the webpage is like this](./assets/images/screenshot-1.jpg)
+![The overall looking of the webpage](./assets/images/screenshot-1.jpg)
 ![](./assets/images/screenshot-2.jpg)
 
 ## Future Work
