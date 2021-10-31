@@ -21,3 +21,4 @@ https://github.com/zhanzhanLiu/Professional-Portfolio
 * Enrich the biography in the about me section;
 * Update the future projects to the work section;
 * Add more details to resume part;
+* Improve the layout for smaller screens
