@@ -74,6 +74,8 @@ header nav ul li a {
     position: absolute;
     right: 20px;
     bottom: 20px;
+    /* display: flex;
+    flex-wrap: wrap; */
 }
 
 /* Section Style */
@@ -299,5 +301,23 @@ header nav ul li a {
     .contactme-list ul {
         flex-direction: column;
         align-content: center;
+    }
+
+    .content {
+        flex-direction: column;
+        align-content: center;
+    }
+
+    .title-container{
+        width: 100%;
+        justify-content: center;
+    }
+
+    .section-title{
+        width: 100%;
+        border-right: transparent;
+        border-bottom: 3px solid var(--secondary-color);
+        text-align: center;
+        justify-content: center;
     }
 }
